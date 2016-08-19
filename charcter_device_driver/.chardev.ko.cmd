@@ -1,0 +1,1 @@
+cmd_/home/jay/adeptchips/device_driver/charcter_device_driver/chardev.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jay/adeptchips/device_driver/charcter_device_driver/chardev.ko /home/jay/adeptchips/device_driver/charcter_device_driver/chardev.o /home/jay/adeptchips/device_driver/charcter_device_driver/chardev.mod.o
